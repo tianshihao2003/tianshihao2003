@@ -15,7 +15,8 @@
 🌱 虽然目前还有很多要学习的地方，但我会用我所有的耐心和热情不断进步。
 
 ### 技术栈
-
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,less,sass,tailwind,bootstrap,nodejs,express,mysql,redis,nginx,docker&perline=8)
-
-![skills2](https://skillicons.dev/icons?i=nginx,docker,git,github,nodejs,redis,python,mysql,docker,vercel,cloudflare&perline=8&theme=dark)
+<p>
+  <code><a href="...html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></a></code>
+  <code><a href="...css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></a></code>
+  ...
+</p>
