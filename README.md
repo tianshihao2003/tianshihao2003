@@ -16,7 +16,6 @@
 
 ### 技术栈
 <p>
-  <code><a href="...html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></a></code>
-  <code><a href="...css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></a></code>
-  ...
+  <img height="24" src="https://skillicons.dev/icons?i=html,css,js,ts,less,sass,tailwind,bootstrap,nodejs,express,mysql,redis,nginx,docker,git,github,python,vercel,cloudflare" alt="skills">
 </p>
+
