@@ -16,6 +16,6 @@
 
 ### 技术栈
 <p>
-  <img height="24" src="https://skillicons.dev/icons?i=html,css,js,ts,less,sass,tailwind,bootstrap,nodejs,express,mysql,redis,nginx,docker,git,github,python,vercel,cloudflare" alt="skills">
+  <img height="24" src="https://skillicons.dev/icons?i=html,css,js,ts,less,sass,tailwind,bootstrap,nodejs,express,mysql,redis,nginx,docker,git,github,python,vercel,cloudflare&perline=19" alt="skills">
 </p>
 
