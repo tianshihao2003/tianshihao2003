@@ -8,7 +8,7 @@
 
 💬 微信：dumplingandcake
 
-📮 邮箱：3109581507@qq.com
+📮 邮箱：tianshihao1024@foxmail.com
 
 💪 我正在全力投入 **AI相关技术的学习** 紧跟新时代步伐，为世界创造属于我的价值……
 
